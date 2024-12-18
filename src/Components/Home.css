@@ -1,0 +1,60 @@
+.hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  min-height: calc(100vh - 80px);
+  padding: 2rem 0;
+  margin:0px 30px;
+}
+.content {
+  max-width:700px;
+}
+.greeting {
+  font-size: 2rem;
+ 
+}
+.title1 {
+  margin-right: 250px;
+  font-size: 2.5rem;
+}
+.highlight {
+  color: #4ade80;
+}
+.subtitle {
+  font-size: 2.5rem;
+  margin-bottom:0.5rem;
+  color: rgba(255, 255, 255, 0.9);
+}
+.description {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  margin-right:50px;
+  line-height: 1.6;
+  color: rgba(255, 255, 255, 0.8);
+}
+.hireButton {
+  background: rgba(255, 255, 255, 0.2);
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 50px;
+  color: white;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.hireButton:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.imageContainer {
+  position: relative;
+}
+
+.image {
+  border-radius: 10px;
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+}
+

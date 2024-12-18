@@ -1,0 +1,13 @@
+.container {
+    min-height: 100vh;
+    background: linear-gradient(135deg, #6a55fa 0%, #c199fa 100%);
+    color: #ffffff;
+  }
+  
+  .main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+  
+  
