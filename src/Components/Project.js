@@ -15,7 +15,7 @@ function Project() {
     },
     {
       title: 'Health Care',
-      description: 'A full-stack application for managing tasks and projects with user authentication.',
+      description: 'Developed responsive and intractive user interfaces for the hospital appointment booking system using React.js.',
       technologies: ['React JS', 'HTML', 'CSS','JavaScript']
     }
   ];
