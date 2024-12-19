@@ -18,7 +18,7 @@ function Home() {
       </div>
       <div className="imageContainer">
         <img
-          src="/manjuim1.png"
+          src="/manjuim1.jpg"
           alt="Professional portrait"
           className="image"
         />
